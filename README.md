@@ -22,10 +22,10 @@ L'application propose deux parcours utilisateurs distincts :
 Le modèle a été entraîné sur le jeu de données public *Heart Disease Dataset*. 
 
 Plusieurs algorithmes d'apprentissage supervisé ont été implémentés et comparés pour la classification:
-K-Nearest Neighbors (KNN) 
-Logistic Regression
-Decision Tree
-Random Forest 
+* K-Nearest Neighbors (KNN) 
+* Logistic Regression
+* Decision Tree
+* Random Forest 
 
 **Résultats :** Le modèle final retenu est le **Random Forest**, car il offre les meilleures performances globales et une robustesse accrue.
 *  **Accuracy (Précision globale) :** 88.04%
